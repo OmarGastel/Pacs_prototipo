@@ -1,4 +1,5 @@
-<?php include('header.php'); ?>
+<?php include(__DIR__ . '/../includes/header.php'); ?>
+
 <head>
   ...
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
@@ -442,4 +443,4 @@
 
 
 
-<?php include('footer.php'); ?>
+<?php include(__DIR__ . '/../includes/footer.php'); ?>
